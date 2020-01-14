@@ -1,0 +1,38 @@
+1. LED 켰다 끄기: 디지털 출력
+(내장된 예제) Basics -> Blink
+
+2. 조도센서, 수위센서, 불꽃센서 값읽기 : 아날로그 입력
+(내장된 예제) Basics -> AnalogReadSerial
+
+3. 초음파센서 : 디지털 출력 및 입력 이용
+(다운로드) HCSR04_ultrasonic_sensor -> HCSR04
+
+2. (액티브)버저 소리내기: 디지털 출력
+(내장된 예제) Basics -> Blink
+
+4. PWM 출력하기 LED 밝기 조정 : 아날로그(PWM) 출력
+(내장된 예제) Basics -> Fade
+
+5. 서보모터  동작: PWM 이용
+(모든 보드의 예제) Servo -> Sweep
+
+6. 가변저항을 이용한 서보모터 동작: 아날로그 입력 및 PWM 출력 이용
+(모든 보드의 예제) Servo -> knob
+
+7. Tilt Switch : 디지털 입력
+(내장된 예제) Basics ->DigitalReadSerial
+
+8. 온습도 센서 DHT11
+(다운로드) SimpleDHT -> DHT11Default
+
+
+
+
+
+
+
+ 
+
+
+
+3. 

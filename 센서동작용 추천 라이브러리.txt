@@ -1,0 +1,7 @@
+1. 온습도 센서(DHT11) : SimpleDHT
+2. 초음파 센서(거리측정) : HCSR04 ultrasonic sensor
+3. 16*2 LCD (i2C용): LiquidCrystal_I2C
+4. i2c 주소확인용:i2c i2cdetect
+5. neopixel rgb : PololuLedStrip
+ 
+
